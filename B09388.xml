@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Otes his case, character, person, and plot: his laying of things together.  The observators declaration, and confession.  His opinion of the papists as well as of the popish plot.</title>
+            <author>L'Estrange, Roger, Sir, 1616-1704.</author>
+         </titleStmt>
+         <extent>Approx. 63KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09388</idno><idno type="EEBO-CITATION">64551357</idno>
+  <idno type="VID">184633</idno>
+  <idno type="EEBO-PROQUEST">2240862543</idno>
+  
+            <idno type="STC">Wing L1283C</idno>
+            <idno type="STC">ESTC R218625</idno>
+            <idno type="OCLC">64551357</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09388)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184633)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2868:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Otes his case, character, person, and plot: his laying of things together.  The observators declaration, and confession.  His opinion of the papists as well as of the popish plot.</title>
+                  <author>L'Estrange, Roger, Sir, 1616-1704.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Reprinted for William Weston, Book-seller in Christ-church Lane,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>[1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: pages cropped and torn with some loss of print.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Oates, Titus, 1649-1705.</term>
+               <term type="topical_term">Popish Plot, 1678.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <body>
+               <div type="dialogue">
+                  <pb n="1" facs="tcp:184633:1"/>
+                  <head>Otes his Case, Character, Person, and Plot: His laying of things together. The Observators Declaration, and Confession. His opinion of the Papists as well as of the Popish Plot.</head>
+                  <sp>
+                     <speaker>TRIM<g ref="char:EOLhyphen"/>MER.</speaker>
+                     <p>SO that you are upon a Sure Ground, I perceive, for what you do in Mr. <hi>Otes'es</hi> business.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Observator,</speaker>
+                     <p>I am <hi>upon a great many</hi> sure grounds, <hi>Trimmer;</hi> The sure <hi>grounds of Authority, Law, Reason, Justice, Truth, Honour and Conscience.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Trim.</speaker>
+                     <p>And yet he <hi>bears up you see,</hi> like another <hi>Athanasius. Titus</hi> against the <hi>World,</hi> and the <hi>World</hi> against <hi>Titus.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Obs.</speaker>
+                     <p>He'd have taken it better <hi>to have been coupled with Judas,</hi> than with <hi>A<g ref="char:EOLhyphen"/>thanasius:</hi> for they two have formerly had some <hi>hard words, you must know, and</hi> Otes <hi>call'd him a</hi> Creed-making Rascal <hi>for his pains:</hi> But the Guineys and the Bottles come in still, <hi>they say.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Trim.</speaker>
+                     <p>Ay, and he has his <hi>friends about him too; and betts ye his money</hi> Nine-pins <hi>as free as an Emperor.</hi> 'Twould do a man good to see how <hi>hear he'll laugh at an unluckie Tip:</hi> But <hi>Peace within</hi> is a great matter. This co<gap reason="illegible" resp="#murp" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> never be, <hi>Nobs,</hi> if all were not well at home: <hi>and then for so many dishes of Meat, the King himself eats no better.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Obs.</speaker>
+                     <p>From whence does all this come, I prethee?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Trim.</speaker>
+                     <p>
+                        <hi>Why, whence came the</hi> Prophets Meat <hi>in the Wilderness?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Obs.</speaker>
+                     <p>
+                        <hi>From</hi> Providence, <hi>no doubt on't: But the Prophets meat in the</hi> Cage <hi>I'm afraid, comes from another Quarter, and we have a</hi> roguy Proverb too, <hi>in favour of that Opinion,</hi> i. e. The devil helps his servants, <hi>Though what he does, 'tis true,</hi> with one hand, <hi>he undoes</hi> with 'tother; <hi>for as fast as the Ravens bring in</hi> Ve<g ref="char:EOLhyphen"/>nison Pasties, <hi>the</hi> Rooks <hi>fly away with 'em.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Trim.</speaker>
+                     <p>Such another Quibble turns my stomach: <hi>But this is enough to shew ye, that</hi> Otes, <hi>and</hi> Otes'es <hi>Plot are not so low in the reputation of the world, as you think for.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Obs.</speaker>
+                     <p>As to <hi>Otes'es</hi> personal credit, thou canst not shew me one <hi>action or cir<g ref="char:EOLhyphen"/>cumstance</hi> in the whole tract of his life, so much as to colour for't: Nay, he has employed his Talent from the very <hi>Cradle, in lies, scandals, treachery, ma<g ref="char:EOLhyphen"/>lice, revenge,</hi> and in the love <hi>and</hi> practice of <hi>wickedness, even for wickedness sake. [Give me the Bible</hi> (says he in <hi>Cambridge,</hi> upon his Taylors bringing a Bill for a Gown) <hi>and you shall have my Oath upon't, that I never had any such Gown of him in my life;] though the having of it,</hi> and the disposing of it was prov'd undeni<g ref="char:EOLhyphen"/>ably against him. His Oath against <hi>Parker</hi> in <hi>Sussex</hi> was not only prov'd to be false, but so ridiculously put together, <hi>that in four or fiue particulars are <gap reason="illegible" resp="#murp" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                           <pb facs="tcp:184633:2"/>
+                           <pb n="1" facs="tcp:184633:2"/>
+                           <gap reason="duplicate" extent="1 page">
+                              <desc>〈1 page duplicate〉</desc>
+                           </gap>
+                           <pb n="2" facs="tcp:184633:3"/> of the Tale it self, it was</hi> morally impossible to be true. <hi>His endeavouring to suborn a perjury against the Father of that</hi> Parker, <hi>when he charg'd him before the King and Council, is upon Oath-likewise:</hi> To say nothing of his tampering against <hi>Coll. Diggs,</hi> and several others, in the same manner. <hi>Whenever he had a Pique to any body,</hi> [I'll have the hearts blood of him] <hi>was the very form of the menace.</hi> [I'll blow <hi>Bellasis</hi>'s bellows <hi>for him;</hi> I'll have his hearts blood.] [I'll have the hearts blood of <hi>Thimbleby,</hi> and of <hi>Strange,</hi> and of <hi>Whitebread,</hi>] because they would not admit him into the <hi>society.</hi> As to his <hi>Treachery,</hi> I cannot call to mind above one person that ever he was beholden to; but the Charity that put bread in the <hi>mouth of this Indigent Varlet, was improv'd into an Evidence a<g ref="char:EOLhyphen"/>gainst the Benefactor: And for the Clearness of his manners now, there are so many Witnesses of his pollutions that way,</hi> that he has scarce had a Servant upon whom he has not attempted the vilest of abominations. And he has made as bold with God in his holy Sacraments, and in the mockeries that he has put (with <hi>Forethought, Counsel,</hi> and <hi>Deliberation</hi>) upon the most <hi>tremendous mysteries</hi> of the <hi>Christian Religion;</hi> as he has upon <hi>man</hi> in the <hi>Violation</hi> of all the duties of <hi>reasonable nature.</hi> And for the credit of his <hi>Plot n<gap reason="illegible" resp="#murp" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>,</hi> I will be answerable to shew ye <hi>forty passages wherein he himself does as good as swear that he is forsworn.</hi> But to conclude, <hi>Set the passages that we know certainly, and infallibly to be false, against those other passages for which we have</hi> Otes's <hi>Oath, against reason and com<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#murp" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap> sense, that they are</hi> true; <hi>and faith tell me your self then, upon the main,</hi> What you think of <hi>Otes's Plot?</hi> Keep your tongue in your mouth, <hi>Trimm<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>r;</hi> or <gap reason="illegible" resp="#murp" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>eak according to your <hi>Conscience.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Trim.</speaker>
+                     <p>
+                        <hi>Why</hi> Otes <hi>may be an ill man, and the</hi> Plot <hi>yet, a very good</hi> Plot <hi>for all that.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Obs.</speaker>
+                     <p>Well; but if it be neither credible for the Witness sake, nor for the matter, or coherence of it: <hi>What is't, I beseech ye, that you'll bottom your credit upon? Or what if I should ask ye now which part of it you believe? The</hi> Narrative <hi>was old</hi> Tonges: <hi>young</hi> Tong <hi>tells ye long since, that the whole contrivance was a</hi> Juggle; <hi>Part of it written in the</hi> Barbican, <hi>part at</hi> Fox-Hall; <hi>that the original design of it was to</hi> remove the Queen, and to destroy the Duke of <hi>York;</hi> that <hi>Otes</hi> was advis'd by <hi>Tong</hi> to go beyond <hi>Seas,</hi> to get Materials toward the fra<g ref="char:EOLhyphen"/>ming of it; and I have papers in my hand of <hi>Old Tongs Writing,</hi> at this in<g ref="char:EOLhyphen"/>stant, to confirm all this to a syllable. <hi>I have proofs from several of</hi> Tongs <hi>Pa<g ref="char:EOLhyphen"/>rishioners, of his offering so much a man per week to those that would go over to the Church of</hi> Rome <hi>before the Plot brake out; which could be with no other design than to find Mercenary Rogues that would come back again for half a Crown a week more, perhaps, and make</hi> Evidences. <hi>The five</hi> Windfor Letters <hi>no body denies to be a Cheat;</hi> Pickering<hi>'s Screw'd-Gun, and Silver Bullets is so ridiculous and Impracti<g ref="char:EOLhyphen"/>cable a Sham, that every body sees thorow it that does but know a</hi> Carabin <hi>from a</hi> Clyster-pipe; <hi>the Story of the</hi> Ruffians <hi>got a Knock in the Cradle; and came the wrong way into the World, under the Curse of</hi> Doublings, <hi>and</hi> Contradictions; Wakemans <hi>Poyson, and</hi> Conyers's <hi>Dagger lay too open and Baref-ac'd to do any
+<pb n="3" facs="tcp:184633:3"/> Execution.</hi> The people were hair'd out of their wits for fear of a <hi>Massacre</hi> and yet at the same time <hi>a greater Army from France, Italy, Spain, Portugal</hi> and <hi>Ireland,</hi> to make a Descent here, and help to beat out the brains of the <hi>Eng<g ref="char:EOLhyphen"/>lish Protestants,</hi> when the English Papists had cut their throats, then the Chri<g ref="char:EOLhyphen"/>stians brought into the <hi>Field</hi> against the <hi>Turks</hi> and <hi>Tartars,</hi> the <hi>Last Summer;</hi> and the <hi>Project</hi> Carried so <hi>Open</hi> too; As if a <hi>Price</hi> had been sett upon the <hi>Kings Head</hi> by a Publick Cryer. But finally, call to mind (as I told you t'o<g ref="char:EOLhyphen"/>ther day). <hi>Oates's Scandalls</hi> against his most Sacred <hi>Majesty,</hi> and Believe him if you Dare, And take notice, that it is not Matter of <hi>Fact,</hi> that he pretends to Assert, but onely throws out the <hi>Vomit</hi> of a <hi>Virulent,</hi> a <hi>Sedi<g ref="char:EOLhyphen"/>ticus</hi> and a <hi>Rancourous Spirit,</hi> which Single Circumstance would be sufficient to Destroy his Testimony, even in any other Cause whatsoever.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Trim:</speaker>
+                     <p>You are (as a man may say) upon the Point of casting your Skin <hi>Nobs;</hi> and presenting your self to the World, in your True Colours Come, Faith out with your Beads, and your Trinkets. Be a good Boy, and let's hear you say Your Office. You have Conn'd your Lesson, I make no doubt on't, by this time. 'Twould be a great deal more Generous, to Own and to Declare your self a <hi>Papist</hi> to the whole World, then to lye Wriggling In and Out thus, betwixt two Religions.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Obs.</speaker>
+                     <p>Why then once for all, <hi>Trimmer,</hi> I am a <hi>CATHOLIQƲE,</hi> and the very Same <hi>CATHOLIQƲE</hi> that I have ever been, and ever Professed my self to Be; That is to say, a <hi>Catholique</hi> of the Church of <hi>England.</hi> The I am well enough Content, to Own my self a <hi>Protestant</hi> too, according to the Best Acceptation of the Word, Improperly Speaking, and no Otherwise That Religion, which I Own'd, and Profess'd upon the Sacrament to the Re<g ref="char:EOLhyphen"/>verend <hi>Dr. Ken,</hi> at the <hi>Hague;</hi> (Now Lord Bishop of <hi>Bath and Wells</hi>) when I was forc'd to run away from a Pack of <hi>Forswoarn Miscreants</hi> here, that would have made a Papist of me; That very Religion do I Declare my self to be of, This Day; and that I never put Pen to Paper, throughout the Whole Course of this Pretended Plot, in Justification of the Papists, with a<g ref="char:EOLhyphen"/>ny Regard to their Religion, but out of the very Indignation of my Soul, to see an Outcry against Popery, on the One Hand, made a Cover for a Repub<g ref="char:EOLhyphen"/>lican, and a phanatical Rebellion, on the Other; To see the Church of En<g ref="char:EOLhyphen"/>gland Struck at in that <hi>Popery;</hi> and every man that did but Talk like a Christi<g ref="char:EOLhyphen"/>an, a good <hi>Subject,</hi> or an honest man to be presently stigmatiz'd for a <hi>Papist;</hi> to see common <hi>Malefactors,</hi> and prostitute <hi>Hirelings,</hi> set up for the Saviours of a <hi>Church,</hi> and a <hi>State;</hi> and gain <hi>Credit,</hi> by kissing the <hi>Outside</hi> of a Bible, <hi>without believing one syllable of the Contents:</hi> To see three Kingdoms half eaten up by <hi>Catchpoles;</hi> the lives and Estates of men of Honour sacrific'd to the <hi>Rabble; and what with</hi> Starving Projects, <hi>and Bills of</hi> Exclusion, <hi>the late King, and the Royal Family treated little better then the meanest subjects:</hi> Neither, in the presence of God, was I ever transported by any <hi>partialities of prepossession,</hi> into so much as one thought of <hi>Bitterness against the Dissenters, any further, than as
+<pb n="4" facs="tcp:184633:4"/> upon</hi> Knowledge <hi>and</hi> sure Experience. I was convinc'd (as I am this Instant) that the <hi>Schism</hi> is only a <hi>Conspiracy;</hi> and a <hi>League</hi> against the <hi>Government,</hi> un<g ref="char:EOLhyphen"/>der the Masque of Religion: If you doubt of this, <hi>I can summon ye above an hundred and fifty of their own Doctors to verify this Opinion. I have</hi> no interest in this Declaration; but to deliver the <hi>truth</hi> and <hi>simplicity</hi> of my very heart; and to confound the malice of all <hi>Slanderers, Impostors,</hi> and <hi>Gainsayers.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Trim.</speaker>
+                     <p>'Tis a wonderful thing that you should have so great a <hi>concern</hi> and <hi>respect</hi> for so many Papists, and yet so little for their <hi>Religion.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Obs.</speaker>
+                     <p>'Tis toward a time of <hi>Mortification, Trimmer;</hi> and now my hand's <hi>in,</hi> I'll e'n go <hi>thorough with my Confession.</hi> There are some points in the Church of <hi>Rome</hi> wherein; <hi>I verily believe;</hi> though we differ in <hi>modalities</hi> and <hi>terms;</hi> we agree yet in the same meaning. There are some other points wherein I do as <hi>verily believe,</hi> the matter capable of such <hi>condescensions</hi> and <hi>abatements,</hi> as both <hi>sides</hi> might very well close upon, with a just <hi>Deference</hi> to <hi>Christian</hi> Charity, and without offence to the <hi>Catholick Faith.</hi> And herein I have great <hi>Authori<g ref="char:EOLhyphen"/>ties,</hi> and no less than <hi>Grotius</hi> himself to support me. Now as to <hi>these reserves,</hi> every man stands or falls to his own Master. And this <hi>diversity of perswasion in Religion breaks no</hi> measures either of <hi>Humanity</hi> or <hi>Civil Government.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Trim.</speaker>
+                     <p>So: And what say ye now to the Papists themselves?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Obs.</speaker>
+                     <p>Why, I do say, That I have an <hi>abhorrence</hi> for all the <hi>Popish Assertors</hi>
+                        <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>f the <hi>deposing Principle,</hi> equal to the <hi>detestation</hi> I have for all the <hi>Pretended Protestants,</hi> that embrew'd their hands in the blood of <hi>Charles the First;</hi> and Conspir'd <hi>against the lives of</hi> Charles <hi>the Second, and His</hi> [Then] <hi>Royal Brother</hi> [Now] <hi>(by the Grace and Providence of God)</hi> Our Dread Soveraign, <hi>James the Second;</hi> upon the same <hi>Diabolical Principle.</hi> But I do again, both in <hi>reason</hi> and in <hi>charity</hi> believe, that there's not one <hi>Papist in a thousand</hi> of that perswasion. My reasons are the proofs they <hi>have given to the Crown, of their Active Loyalty,</hi> through a course of <hi>Phanatical B<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>oils, Conspiracies</hi> and <hi>Rebellions</hi> of above 40 years continuance, to the <hi>hazard</hi> of their <hi>lives</hi> and <hi>fortunes,</hi> without making any advantage of those <hi>Commotions,</hi> toward the playing of their own Game.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Trim.</speaker>
+                     <p>What d'ye make of the <hi>Irish Rebellion?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Obs.</speaker>
+                     <p>As barbarous a Rebellion as you your self can make of it: But it was the <hi>Scottish Rebellion</hi> that <hi>led 'em the way;</hi> and the <hi>Rebellion afterward</hi> of the two <hi>Houses that obstructed those reliefs,</hi> (and made use of them for the support of the <hi>English Rebellion</hi>) which would otherwise <hi>most certainly have confounded the Irish Insurrection.</hi> Now as the <hi>Schismaticks never fail'd of pinching the Crown themselves whenever they found it under any other sort of distress:</hi> So the Papists must have this right done them, that they have born the outrages and inju<g ref="char:EOLhyphen"/>ries that have been multiplied upon them by the <hi>tumultuary Rabble,</hi> with the resignation of good Christians, and of Loyal Subjects.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Trim.</speaker>
+                     <p>Has not <hi>Otes</hi> prov'd a <hi>Plot</hi> upon 'em?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Obs.</speaker>
+                     <p>
+                        <hi>Sworn one, you mean; And pray remember against whom he has <hi>Sworn Treason</hi> besides: And in <hi>
+                              <gap reason="illegible" resp="#murp" extent="3 letters">
+                                 <desc>•••</desc>
+                              </gap>ses,</hi> some <hi>Impossible.</hi> others <hi>Unlikely;</hi> and some again, so insolent, and <hi>Incredible,</hi> together, that no <gap reason="illegible" resp="#murp" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> in his right Wits either Does, or Can or Dares pretend to believe him</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <pb n="5" facs="tcp:184633:4"/>
+                     <speaker>TRIM<g ref="char:EOLhyphen"/>MER.</speaker>
+                     <p>'TWas a Thousand Pittys you were Cut-off <hi>Last Saturday in</hi> the <hi>Middle</hi> of your <hi>Panegyrick</hi> upon the <hi>Papist.</hi> They are a <hi>Loyal People</hi> you say; a <hi>Patient,</hi> and a <hi>Resigning People:</hi> Pray let's have a touch at their <hi>Moralls</hi> now; The <hi>Sobriety</hi> of their <hi>Conversation;</hi> and in short; why not the <hi>Story over again</hi> that we have had so often already of <hi>Old acquaintance; Conversation,</hi> and the many <hi>Obligations</hi> they have laid upon you? Nay; Me<g ref="char:EOLhyphen"/>thinks, you have prettily well <hi>compounded</hi> the matter of <hi>Religion</hi> with 'em, you have <hi>met 'em half way,</hi> and left it a <hi>measuring-cast, whether</hi> you'l come home again a <hi>Protestant,</hi> or a <hi>Papist.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>OBSERVATOR.</speaker>
+                     <p>Why this 'tis now, for a man to have <hi>Eyes</hi> in his Head, and not to be mad, for <hi>company!</hi> He that will not run away from the <hi>Sound</hi> of <hi>Popery at the Breech of him,</hi> like a <hi>Dog</hi> with a <hi>Marrow-bone at's Tail,</hi> and beat out his <hi>brains full-but</hi> against Sr. <hi>Patients memorial</hi> of the <hi>burning</hi> of the <hi>Pro<g ref="char:EOLhyphen"/>testant-City</hi> in <hi>Pudding-Lane;</hi> shall be enter'd, forsooth, in the <hi>Black Book</hi> of the <hi>[MEN-WORTHY,]</hi> and <hi>Popishly-Affected.</hi> My Lord-Mayors <hi>pack of Hounds</hi> may be in the <hi>right,</hi> I'le allow ye; but the <hi>Common Cry</hi> of the <hi>Mobile,</hi> never took a <hi>true Scent</hi> in this <hi>world</hi> yet: That is to say; upon a true <hi>principle</hi> of distinction: what they may do by chance, is <hi>another matter.</hi> Things can ne<g ref="char:EOLhyphen"/>ver go <hi>well,</hi> so long as <hi>Religion</hi> is made a <hi>Cloak</hi> for a <hi>Faction.</hi> And that men take up <hi>Articles</hi> of <hi>Faith,</hi> in spite, and Contradiction. The <hi>Papists</hi> hope to be sav'd by <hi>their Good works.</hi> Now if a man goes presently, and robs <hi>Churches,</hi> and cuts <hi>throats</hi> upon't, 'tis an admirable <hi>invention</hi> to keep himself out of that danger. <hi>[I won't believe this, or that, because the papists believe it;]</hi> is just as much to the purpose, as if a body should say, <hi>I'le go upon my</hi> head <hi>because the</hi> Papists go upon their heels. This is the way to turn the <hi>Mysteries</hi> of the <hi>Christian Faith</hi> into <hi>Romance;</hi> and fright the multitude into an <hi>Abjuration</hi> of Christianity it self, for fear of <hi>popery.</hi> The <hi>Question</hi> is not, what such or such a Society of <hi>Men</hi> Believe; But <hi>Every Sober man,</hi> will enform himself the best he may, what it is that he himself Ought to believe; and not stop <hi>there,</hi> nei<g ref="char:EOLhyphen"/>ther, without taking <hi>this</hi> along with him, that believing, without <hi>doing▪</hi> is but the <hi>One-half</hi> of a <hi>Christians Lesson:</hi> And that your lively <hi>Faith,</hi> (according to the <hi>Vulgar Ʋnderstanding</hi> of it) will avail ye litle, without the <hi>Manifestation</hi> of it by your works. Now the <hi>seeking</hi> of peace; the studying of <hi>quietness;</hi> the doing of good to all <hi>Men;</hi> and the <hi>Exercise o<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Offices</hi> of <hi>Humanity,</hi> and <hi>tender<g ref="char:EOLhyphen"/>ness,</hi> wherever we find a <hi>Subject</hi> for them; <hi>These [AGENDA]</hi> are <hi>duties,</hi> I say, in <hi>common,</hi> to all <hi>Man-kind,</hi> whether <hi>Christian</hi> or <hi>Pagan: Duties,</hi> that we are obliged to, as well by the dictates of nature, as by the precepts of the gospel And the <hi>Impulse</hi> is no other then a <hi>R<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>y</hi> of the <hi>divine goodness,</hi> shed into the <hi>rea<g ref="char:EOLhyphen"/>sonable Soul,</hi> by the Benignity of a <hi>gracious</hi> providence, to dispose us towards the discharge of those <hi>Offices,</hi> which, <hi>Humanity,</hi> as well as <hi>Religion,</hi> requires at our hands. There may be, (and there is, many time, <hi>undoubtedly</hi>) an <hi>Invin<g ref="char:EOLhyphen"/>cible ignorance,</hi> in the matter of <hi>Notional</hi> truths: But there can be no excuse
+<pb n="6" facs="tcp:184633:5"/> pleaded for a perverse <hi>practice,</hi> in opposition to the Light af an <hi>universal Im<g ref="char:EOLhyphen"/>pulse:</hi> and 'tis a <hi>Senceless</hi> thing, to talk of piety, in the exercise of <hi>Rigour,</hi> or <hi>malic<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>,</hi> against any man, or any sort of men, barely for <hi>Opinion,</hi> without either <hi>Charity or Mercy.</hi> Men may help doing; but they cannot help thinking. The <hi>Winds</hi> from all the points of the <hi>compass,</hi> never wrought so much <hi>mischief</hi> to this <hi>Island,</hi> in bringing the <hi>Sea</hi> upon us, As liberty of conscience has done, in the more <hi>destructive Inundation,</hi> of an unbounded schisme, and they have gotten a trick too, of covering all Religions but popery, under the <hi>Cant</hi> of the <hi>Protestant</hi> Religion; The reformed Religion; and our Religion: (which is a mighty business I warrant ye) Now let <hi>Ten Thousand Millions</hi> of <hi>Mouths,</hi> Open, as many Several ways, to the tune of our Religion: and that same <hi>[Our Religion]</hi> looks <hi>Fast, West, North, and South;</hi> Answers the whole cry, and Stops every mouth or 'em. Pray observe now, that under this Generality, and blind, the <hi>Common People</hi> are so far impos'd upon, as to take every man for a <hi>Papist,</hi> that will not <hi>Subscribe</hi> to this protestant; this <hi>Reformed;</hi> This Our Religion, at large; when, upon the whole matter 'tis nothing but a most <hi>Pernicious Imposture,</hi> and abuse, wrapt-up in <hi>Popular Terms.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Trim.</speaker>
+                     <p>Nay faith, Now y'are in the <hi>Vein</hi> on't; E'en let the thing it self be an Imposture, and an abuse, as well as the Meaning on't.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Obs.</speaker>
+                     <p>Soft. and fair, <hi>Trimmer.</hi> The expression is good enough, if it does not speak one thing, and intend another: But if it hold forth one thing to the Government, and Another, to the Faction, 'tis, beyond Controversy, no bet<g ref="char:EOLhyphen"/>ter than a Holy <hi>Cheat.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Trim.</speaker>
+                     <p>So that if a man cannot <hi>prove what he thinks,</hi> You are at liberty, to make what <hi>Construction</hi> you please, of what he says.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Obs.</speaker>
+                     <p>No No. I'le set ye Clear of that difficulty; and you shall see, I will do it in away of respect too, after this manner, for the purpose now.</p>
+                     <p>May it please your <hi>Lordship, Your Reverence,</hi> or <hi>Your Worship,</hi> (all after as it happens) to explain your self upon the <hi>Word, PROTESTANT.</hi> if you speak of the <hi>Church of England,</hi> under the care of <hi>Episcopal Governors,</hi> and as it is by Law establish'd in Doctrine, and discipline, Give that Religion what de<g ref="char:EOLhyphen"/>nomination you please, I'm for it: But if you have a Secret reserve to your self, of <hi>Comprehending Presbyterians, Independents, Anabaptists,</hi> and all the other Sects that call themselves <hi>Protestants,</hi> for protesting against <hi>Popery;</hi> I am not of that <hi>Protestant</hi> Religion; and whoever swallows that generality, as a Test of his perswasion, Enters into a kind of <hi>Combination</hi> (with your <hi>Honours, Tour, Reveren<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>es, or Your worships leaves</hi>) to confound the very Religion, which he desires to preserve: And, into little better, then a Confederacy with known, and open Enemies, against his dearest Mother, and Friends: Neither do I take it to be any proof of a true Religion, Barely to protest against a false one: For that may be the case of only combating the errors of one Religion with the more <hi>Enormous</hi> Im<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ieti<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s of a thousand worse.</p>
+                  </sp>
+                  <sp>
+                     <pb n="7" facs="tcp:184633:5"/>
+                     <speaker>Trim.</speaker>
+                     <p>Would you'd bring it to some issue once?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Obs.</speaker>
+                     <p>Take it in a word, then; whoever refuses to expound his meaning, in such a case, does most, certainly mean the worst on't▪ and now may it please your &amp;c. once again; There's the same snare under the word <hi>[Reform'd,]</hi> as under <hi>[Protestant,]</hi> and as much need of explaining it, least when a man thinks to declare for the constitution, he be drawn in, (as it was in the <hi>one and forty protestation</hi>) by an exposition <hi>Ex post Facto,</hi> to an <hi>engage<g ref="char:EOLhyphen"/>ment</hi> for the <hi>Schisme:</hi> But then comes <hi>[OƲR RELIGION,]</hi> that (without some explicit limitation, or restriction) raises a very <hi>Hubub;</hi> fires the <hi>Beacons;</hi> and takes-in <hi>Turks, Jews, and Gentiles</hi> into the comprehension. Why our Re<g ref="char:EOLhyphen"/>ligion is any Religion; all <hi>Religions,</hi> or no <hi>Religion at all;</hi> especially out of so many mouths, of as many several minds: And therefore Religion is not a thing to be trifled with; at this dark, dubious, and unintelligible rate, with<g ref="char:EOLhyphen"/>out fixing some mark, Name, or appellation upon it; And therefore let 'em either say our Popish Religion, or our <hi>Phanatical</hi> Religion; or our Religion established by Law; and a body knows where to have 'em: but to set up a 100 false <hi>Religions,</hi> in a protestation to oppose one; and then to make one true Re<g ref="char:EOLhyphen"/>ligion, out of a hundred contradictions; is to errect a multitude of Gods, and to Set up <hi>Altar against Altar;</hi> and on the other hand; to extract a compound of <hi>Truth</hi> out of a confusion of errors. So that let a Son <hi>of the Church of Rome</hi> be what he will; <hi>the Son of a hundred and fifty Churches</hi> is at least a <hi>hundrd and nine and forty times;</hi> worse. And now to go back again; All these together are <hi>Ot<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>'es Mother Church.</hi> Well! 'Tis a heavy fellow that! But afliction is a great <hi>Clarifier</hi> of the understanding; And I fancy; that he will have the wit yet; (if not the Grace to make the world the wiser for him; before he leaves it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Trim.</speaker>
+                     <p>He's resolute; you see; his Friends stick to him: He wants for no<g ref="char:EOLhyphen"/>thing; and he's in a condition now; let me tell ye; to try who are his Friends; and who are his Enemies.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Obs.</speaker>
+                     <p>Away Away <hi>Trimmer:</hi> Thou hast at least <hi>Fifty soft places</hi> in that head of thine. 'tis a tryal of their discretion; not of their Friendship: For they love him; only as the <hi>Indians</hi> do the <hi>Devill</hi> for fear he should hurt 'em: For whenever they leave him; he will most certainly tell tales; and so soon as ever the Law shall put him wholly out of condition of being any longer an evidence The very <hi>Guinney</hi> and <hi>Bottle-men;</hi> shall be the first to throw rotten eggs at him. 'Tis expedient indeed; for the Faction; that there should be a plot: But yet as to the witness there's not one of a thousand of 'em; when he's put to't in private; that will not call ye <hi>Otes</hi> as many <hi>Rascalls</hi> as ever he call'd the <hi>Not-Guilty Lords.</hi> This is so true; so manifest; and so notoriously known; that a man needs but set his foot in <hi>any Coffee-house;</hi> to see it <hi>Confirm'd.</hi> Nay <hi>Otes</hi> is a great Rogue; (says one) But certainly he must needs have heard something Nay there's no body can justify <hi>Otes,</hi> (says another) <hi>Nay faith,</hi> (says a third) <hi>If he were turn'd off the Cart, he should e'en hang long enough for my part, before I
+<pb n="8" facs="tcp:184633:6"/> took him down:</hi> And these are men, (as <hi>Otes</hi> said in the bitterness of his Spirit, when the Brasier arrested him;) that two year ago would as soon have com<g ref="char:EOLhyphen"/>mitted a Sin against the Holy Ghost; as have done such a thing. Now if this Poor Devil has but the soul of a Snail, he'll say thus to himself, [Here am I] a Wicked, a Forsworn, a Murderous, a Despis'd, an Accursed, and an Aban<g ref="char:EOLhyphen"/>don'd Wretch. <hi>Justice has laid hold of me, and I am become a Spectacle to Men and Angels, to see what will become of me.</hi> As to the Sin and Shame of the busi<g ref="char:EOLhyphen"/>ness, the Oaths, and the innocent blood, the malice, the revenge, and other driblets of <hi>Concupiscence</hi> and <hi>Humane Frailty,</hi> the <hi>Pillories,</hi> and the <hi>Capital Letters;</hi> the <hi>Huzza's</hi> of the <hi>Mobile,</hi> when I mount the Stage, in exchange for the <hi>Hosanna's</hi> I had formerly, when I went <hi>to give Evidence,</hi> &amp;c. All this, I say, breaks no bones; and betwixt my <hi>Forehead, my Philosophy,</hi> and my <hi>Con<g ref="char:EOLhyphen"/>science,</hi> I am able to digest as much as this comes to, I bless my Stars for't. But then they talk of <hi>Whipping-Posts, hot Irons,</hi> and other <hi>humane Inventions of Mortification,</hi> that do not agree altogether so well as the other, with my con<g ref="char:EOLhyphen"/>stitution: <hi>(And the Common Law they say has a devillish reach that way.)</hi> Why, What if I am a Rogue? It has been for the Service of Greater Rogues than my self: and 'tis One Thing to swear for 'em, Another Thing to Draw and Hang for 'em the Devil! am I to make a Greater Scruple now, of <hi>One True Oath, Who Sett me on; Who paid me my Wages,</hi> &amp;c. then I have don all this while of an Hundred False Ones.]</p>
+                  </sp>
+                  <sp>
+                     <speaker>Trim.</speaker>
+                     <p>How the Devil dances! Why if it should come to This once; Let him Swear his Heart out, there will no body Believe him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Obs.</speaker>
+                     <p>Dost thou imagine that he is not able to bring a great part of this contrivance to light, by other hands: He'll tell ye, Who wrote the <hi>Windsor</hi> Letters; Who put him upon accusing the Queen, and the Duke; Where it was that <hi>Bedloe</hi> and He went to School together to learn their lessons. Why the very Copy of a Second-True Narrative, by way of a <hi>Kidderminster Para<g ref="char:EOLhyphen"/>phrase</hi> upon the Text of the old Old True Narrative, would be worth five hundred pound to him in ready dust: His <hi>Alexandrian Ʋersion</hi> of the <hi>Septua<g ref="char:EOLhyphen"/>gint</hi> was nothing to't. He'll tell ye whose <hi>Buffoon</hi> he was when he spung'd for his passage from <hi>Callis</hi> to <hi>Dover</hi> (in <hi>June</hi> (not <hi>April</hi>) 1678) when he Canted for his Ordinary; and <hi>[I ha' drunk many a Pot of Good Ale]</hi> was the <hi>Bob</hi> of the Song. For the last word now, He is <hi>yet</hi> an <hi>arranter Fool</hi> then ever I took him for, <hi>If he falls alone.</hi>
+                     </p>
+                  </sp>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>
+                     <hi>Dublin,</hi> Re-Printed, and are to be Sold by <hi>William Weston Book-seller</hi> in <hi>Christ-Church-Lane</hi> 1685.</p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="dialogue">
+                  <pb n="9" facs="tcp:184633:6"/>
+                  <head>
+                     <hi>OBSERVATOR.</hi> The Method of our late Troubles. (Meaning the late Rebellion) Clemency and Pa<g ref="char:EOLhyphen"/>tience was the ruine of <hi>Charles the First.</hi> No enduring of Popular Managers, The Peoples Patriots prov'd their Oppressors. A Factious House of Commons Destroyed the King, the Church, and the three Kingdoms.</head>
+                  <sp>
+                     <speaker>TRIM<g ref="char:EOLhyphen"/>MER.</speaker>
+                     <p>I Have wondred many a time within my self, as I have been think<g ref="char:EOLhyphen"/>ing of <hi>Our Late Troubles</hi>—</p>
+                  </sp>
+                  <sp>
+                     <speaker>OBSERVATOR.</speaker>
+                     <p>(The <hi>Late Rebellion,</hi> thou meanest.)</p>
+                  </sp>
+                  <sp>
+                     <speaker>Trim.</speaker>
+                     <p>How it was possible for the men of those <hi>times</hi>—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Obs.</speaker>
+                     <p>(<hi>The Conspirators,</hi> that is.)</p>
+                  </sp>
+                  <sp>
+                     <speaker>Trim.</speaker>
+                     <p>To <hi>run-down Charles the First:</hi>—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Obs.</speaker>
+                     <p>(Prethee frame thy mouth to a little <hi>Loyal English once;</hi> and call it murdering <hi>their most Gracious Sovereign,</hi> that <hi>Blessed Martyr.</hi>)</p>
+                  </sp>
+                  <sp>
+                     <speaker>Trim.</speaker>
+                     <p>How this was possible (I say) considering that <hi>the King had, at that time the whole Strength of the Nation</hi> at his Command: He had the <hi>Shipping, the Militia, all the considerable Ports, and Strong-Holds, all the Magazines of Arms and Ammunition in</hi> his own hands.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Obs.</speaker>
+                     <p>Now I have been casting that business in my thought, clear another <hi>way,</hi> and concluded it <hi>impossible for any Prince to preserve himself under the cir<g ref="char:EOLhyphen"/>cumstances of that season. For the Rebels here at home had effectually gain'd the Victory</hi> before ever a blow was struck. The <hi>Scene</hi> opened in <hi>Scotland</hi> in 1637, and the matter was then concerted betwixt the Conspirators of both King<g ref="char:EOLhyphen"/>doms. In <hi>February,</hi> of the same year, they Erected four Tables for ordering the affairs of the Government. 1. <hi>Nobility.</hi> 2. <hi>Gentry.</hi> 3. <hi>Burroughs.</hi> 4. <hi>Mi<g ref="char:EOLhyphen"/>nisters;</hi> and these four were to prepare matters for a <hi>General Table,</hi> consist<g ref="char:EOLhyphen"/>ing of so many Commissioners selected out of all the rest. Their first business was a <hi>Covenant,</hi> and by vertue of that <hi>Covenant</hi> they presently exercised all Acts of <hi>Sovereignty,</hi> levied men and arms, and brake out into an <hi>actual Rebel<g ref="char:EOLhyphen"/>lion.</hi> In 1638. the King, at a prodigious expence both <hi>to himself,</hi> and to <hi>his Friends, led a considerable Army against them; and when he had the Scots at Mercy within two miles of</hi> Berwick; <hi>he was prevail'd upon by some Presbyterian Lords, to come to an agreement</hi> upon certain Articles of Pacification; the Scots brake Faith with him upon every point; And the loss of that opportunity, by <hi>trusting a party that never kept touch either with God or man,</hi> was the foun<g ref="char:EOLhyphen"/>dation of that pious Princes ruine. This <hi>Pacificat<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>on</hi> was concluded, <hi>June</hi> 17. 1639.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Trim.</speaker>
+                     <p>Why thou art spinning out an <hi>Observator</hi> to the length of an History</p>
+                  </sp>
+                  <sp>
+                     <speaker>Obs.</speaker>
+                     <p>No, no. I'll come to your Point now in six words; that <hi>believing, charitable Prince,</hi> went on still trusting, yielding, and hoping the best, till he found his <hi>Fathers Protestation</hi> verified by <hi>ruful Experience,</hi> That <hi>[neither Oaths, nor Promises can bind them.] The truth of it is, His Majesty was too tender-natur'd,
+<pb n="10" facs="tcp:184633:7"/> and too good a Christian to be a happy King over such a people. For they turn'd all his Royal Bounties to his loss.</hi> He gave, and granted, till there was nothing more to ask, or almost to wish for, <hi>saving the Crown it self:</hi> And that fol<g ref="char:EOLhyphen"/>lowed by a natural consequence; for the <hi>Concessions</hi> on the one hand did but serve to enflame, to provoke, and to encourage an endless Importunity on the other. Insomuch, that the King had effectually given away his Power be<g ref="char:EOLhyphen"/>fore he came to assert his Prerogative; and the Conspiracy was suffered to come to a Head before there was any vigorous attempt to crush it. Where<g ref="char:EOLhyphen"/>as a <hi>Constable, a Mess<gap reason="illegible" resp="#murp" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ge<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, or a Sergeant at Arms</hi> would have done more at the beginning then twenty thousand men afterward in the field.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Trim.</speaker>
+                     <p>Come, come. There's no resisting the <hi>Torrent of the multitude.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Obs.</speaker>
+                     <p>Or rather on the other side, There's no trusting of the common peo<g ref="char:EOLhyphen"/>ple in the hands of <hi>popular Managers;</hi> No sort of tampering with them is to be endur'd either in Church or State. He that so much as tells them they are in danger, implies a scandal upon the <hi>Government;</hi> and all publick In<g ref="char:EOLhyphen"/>sinuations and Complaints are no better than <hi>Libels.</hi> Whosoever looks into the story of those times, will find that <hi>Knaves and Fools</hi> were the two prin<g ref="char:EOLhyphen"/>cipal Actors in that <hi>Tragedy.</hi> The <hi>On's</hi> part was to invent Slanders and lies, the <hi>Others</hi> to believe and publish them; the one to consult, the other to ex<g ref="char:EOLhyphen"/>ecute; the one to dictate, to direct, and to command; the other to resign, and to obey. The <hi>rancours</hi> and <hi>animo<gap reason="illegible" resp="#murp" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>ies</hi> of those days in the matter of Re<g ref="char:EOLhyphen"/>ligion, were created, heightned, and irritated by an artificial manage of the passions of the multitude; and no men so sollicitous for the preserving of their Religion, as those that ran counter to the Principles of <hi>all Religions, and effectually had none to lose: And he same freak took 'em again, for fear of their Civil Liberties,</hi> under a Prince so tender and merciful, that he lost his Crown and his Life by indulging the Importunities of a <hi>Sanguinary and Insatiable Faction.</hi> They were <hi>Gigg'd</hi> in the Head too with the danger, forsooth, of lo<g ref="char:EOLhyphen"/>sing their Bibles; when yet their Leaders, with an Ordinance of Parliament made a shift to over-rule the Doctrine of <hi>Christ and his A ostles;</hi> and the men that put these <hi>crotchets in their crown,</hi> were much more sollicitous for the <hi>keeping-up</hi> of their <hi>fears and jea<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>o<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>sies,</hi> than for the danger of their Bibles: For when their <hi>Imaginations</hi> were once tainted, there was no difficulty in the World of making them take <hi>any other Impressions:</hi> For they saw no longer with their own eyes: They took no measures any longer by their own <hi>Ʋn<g ref="char:EOLhyphen"/>derstandings;</hi> they neither believ'd, nor acted any <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>onger by their own <hi>Judg<g ref="char:EOLhyphen"/>ments:</hi> But as <hi>passive as so many Beasts,</hi> they were manag'd by the <hi>Bit and the Spur,</hi> at the pleasure of the <hi>Rider.</hi> I shall not need to tell you, <hi>Trimmer,</hi> to what degree of Wickedness, and of Desperation, the <hi>Visionary</hi> Images of a <hi>f<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>lse Holiness,</hi> and of false <hi>Dangers,</hi> transported them, till <hi>in the Conclusion,</hi> they found too late, and to their miserable cost, that they had cast away their Lives, Souls, Liberties and Estates, for Shadows, and thrown themselves in<g ref="char:EOLhyphen"/>to the Devils mouth, for fear of their best friends.</p>
+                  </sp>
+                  <sp>
+                     <pb n="11" facs="tcp:184633:7"/>
+                     <speaker>Trim.</speaker>
+                     <p>But there were <hi>Grievances, Monopolies, Innovations,</hi> several <hi>Exacti<g ref="char:EOLhyphen"/>ons,</hi> and <hi>Impositions;</hi> (as I have been told) and things of that kind abundant<g ref="char:EOLhyphen"/>ly to work upon. But all this was before my time; and so I can speak only upon <hi>Books, and Hearsay.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Obs.</speaker>
+                     <p>First, the <hi>Faction, Created Fears and Jealousies,</hi> and then those <hi>fears and jealousies created all sorts of Grievances</hi> that the <hi>Cabal</hi> had a mind to; so that in short; you take the matter by the wrong <hi>handle</hi> all this while; and cast the <hi>cause</hi> of the <hi>Quarrel</hi> on the <hi>wrong side.</hi> The <hi>Fault</hi> was not the <hi>Govern<g ref="char:EOLhyphen"/>ments,</hi> but the <hi>peoples;</hi> and that which you take for an <hi>Oppression</hi> on the one hand, was really a <hi>Conspiracy</hi> on the other. When the people were once poysoned and stung with ill <hi>Impressions</hi> concerning the <hi>Government,</hi> they pre<g ref="char:EOLhyphen"/>sently turn'd their <hi>thoughts</hi> and <hi>applications</hi> to the saving of their <hi>Stakes</hi> by some other <hi>Interest;</hi> and found no fairer way for the gaining of their <hi>Point,</hi> then by ranging themselves under the <hi>protection of an ambitious, vindictive, ne<g ref="char:EOLhyphen"/>cessitous, or Factious Party of male-contents, in one common Band of Confederacy against the present State.</hi> The first considerable operation of these <hi>fears</hi> and <hi>jealousies</hi> shew'd it self in the choice of a <hi>Popular House of Commons,</hi> which, for the greater part, were indeed of the peoples Election, but of the Nomi<g ref="char:EOLhyphen"/>nation of the <hi>Cabal</hi> that turn'd-out, and took-in at pleasure; and with the help of the <hi>Mobile in the Lobby,</hi> laid the foundation of a publick ruine.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Trim.</speaker>
+                     <p>I have nothing to say to the honesty either of their <hi>principles,</hi> or their <hi>proceedings:</hi> But they were men certainly of Brains and Business, and most watchfully industrious for the improving of all opportunities to their <hi>advan<g ref="char:EOLhyphen"/>tage.</hi> Where they had one friend throughout the <hi>Kingdom,</hi> a man may safe<g ref="char:EOLhyphen"/>ly affirm, that they had ten <hi>Enemies;</hi> nay, and when they were <hi>torn to pieces among themselves,</hi> the common <hi>Adversary never made any profit</hi> yet of their <hi>Divisions.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Obs.</speaker>
+                     <p>And how came that about, d'ye think?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Trim.</speaker>
+                     <p>Why, what party soever was <hi>uppermost,</hi> the <hi>Episcopal men, and the Loyallists</hi> were still kept under foot; disarm'd, impoverish'd, and formally unqualified for any Office, or place of <hi>Trust Military or Civil:</hi> Not a man of 'em to <hi>Elect,</hi> or be <hi>Elected</hi> to serve in parliament, or into any other pub<g ref="char:EOLhyphen"/>lick Business: As for Example now, no man to have a Voice, or be Elected, that shall not first take the Covenant. <hi>Dec.</hi> 20. 1643. <hi>Husbands Collections.</hi> Part 2d. Fol. 404. <hi>Delinquents disabled again.</hi> Oct. 4. 1647. <hi>Scobells Collection.</hi> Fol. 135. <hi>And again also,</hi> Oct. 8. 1652. Fol. 209. <hi>The same over again, the</hi> Proclamation, <hi>Sept.</hi> 21. 1655. And what do you think of the Parliaments Qualifications, in their Humble Petition, and Advice to the Lord Protector of <hi>May</hi> 25. 1657. And <hi>afterward,</hi> of their Additional Petition and Advice of <hi>June</hi> 16. following, for the choice of Members to serve in Parliament? [No man to Elect, or to be Elected that had Aided, Abetted, Advised, or Assisted in any War against the Parliament, since the First <hi>of Jan.</hi> 1641.
+<pb n="12" facs="tcp:184633:8"/> Without some signal Testimony given afterward, of his affection to <hi>the</hi> Par<g ref="char:EOLhyphen"/>liament, or the Protector. None to Elect, or be Elected, that had been En<g ref="char:EOLhyphen"/>gag'd in any Plot, Conspiracy or Design against the person of the Protector, or in any Insurrection, or Rebellion in <hi>England or Wales,</hi> since <hi>Decemb.</hi> 1653 one and forty Commissioners, (whereof fi<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e to be a <hi>Quorum</hi>) to judge of the qualifica<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ions of the <hi>person<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi> c<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>osen: And 1000<hi>l. set upon their heads that should be found <gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nqualified.</hi>
+                        <gap reason="illegible" resp="#murp" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>c<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>bel. Part. 2. 378. 379. 382.] Was no this a very good way now to secure the Peace of the Government? And so their method of disarming all <hi>Malignants,</hi> and keeping Ejected Ministers, and Fellows of Colledges out of all manner of Employment: As was provided by a <hi>Decla<g ref="char:EOLhyphen"/>ration</hi> of <hi>Nov.</hi> 24. 1655. And divers Ordinances of Parliament.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Obs.</speaker>
+                     <p>Nay, 'twas morally impossible for the <hi>Cavaliers</hi> ever to do any good on't, under those circumsta<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ces.</p>
+                  </sp>
+                  <sp>
+                     <speaker>
+                        <hi>Tri<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</hi>
+                     </speaker>
+                     <p>And it would have been every jot as impossible to have kept things quit, if they had gone any other way to work. There were no <hi>Certificates</hi> or <hi>Recommendations</hi> heard of, in those days, upon <hi>presumption, confidence, cha<g ref="char:EOLhyphen"/>ritable conjecture, Verily perswaded,</hi> or the like: But the <hi>Word</hi> was, [Shew me thy Faith by thy works.] What has he done publickly? Has he <hi>Abjur'd,</hi> has he bid <hi>open Defiance</hi> to all his <hi>former Confederates?</hi> Has he ventur'd his life, limb, or Estate for the <hi>Cause</hi> when he might have slept in a whole Skin? I hate to hear people talk of a <hi>private, or closet Confession, of a publick, crying-Sen.</hi> By my troth <hi>Nobs,</hi> I can never believe any man to be a <hi>Convert,</hi> that does not go thorough the <hi>whole discipline</hi> of a <hi>true peni<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ent.</hi> In a word, I would set up this Rule to my self: never to undertake for any mans honesty, to the publick, if I would not venture my Estate upon't in private.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Obs.</speaker>
+                     <p>Nay, I have wondred forty times to see a <hi>Rascals word</hi> taken for the safety of three <hi>Kingdoms,</hi> that the whole <hi>hree Kingdoms</hi> together would not have trusted for a <hi>Brun<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>gen Groa<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi> in <hi>r<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ady Money:</hi> but st<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ll the case of the poor <hi>Cavaliers</hi> was very hard, methinks.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Trim.</speaker>
+                     <p>No more, then what was barely and absolutely necessary for the preserving of the publick Peace. They had no way in th<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> wor<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d to support themselves, but by keeping their <hi>enemies</hi> out of play, and the Law in their own hands. And then they were as careful whom they <hi>trusted,</hi> as whom they <hi>admitted.</hi> Not a man would they suffer to set foot within those <hi>L<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>gislative Walls,</hi> but upon the security of <hi>Body, Soul, and Estate</hi> for his good behaviour. So that by these <hi>strictnesses</hi> they made themselves all of a piece, and gain'd their <hi>point:</hi> (And He's the wis<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>st man certainly, that works sures<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.) The sense of the House was the sense of the Nation: And when they had once set up an <hi>Authority</hi> not to be disputed, and possese themselves of a <hi>power</hi> not to be resisted, they might have Rul'd, and Reign'd, if i<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> had not been for their own <hi>Divisions, in Saecula Seculorum.</hi> And so let it rest till to morrow.</p>
+                  </sp>
+               </div>
+               <div type="dialogue">
+                  <pb n="13" facs="tcp:184633:8"/>
+                  <head>
+                     <hi>One</hi> Factious House <hi>of</hi> Commons <hi>Ruin'd</hi> Three Kingdoms. <hi>The Imaginary Pow<g ref="char:EOLhyphen"/>er of</hi> Ʋotes, and <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>riviledges, <hi>above</hi> Establish'd Laws. Reason of State holds One Government as well as in another.</head>
+                  <sp>
+                     <speaker>OBSER<g ref="char:EOLhyphen"/>ƲATOR.</speaker>
+                     <p>TO be <hi>Sequestr'd, Imprisn'd, Plunder'd,</hi> Disarmed and Unquali<g ref="char:EOLhyphen"/>fy'd for any, <hi>Publique Office, Trust,</hi> or <hi>bus'ness,</hi> for a matter of <hi>Eighteen</hi> or <hi>Twenty years together:</hi> And throughout some <hi>Twelve,</hi> or <hi>Thirteen Revolutions,</hi> (whoever got <hi>uppermost</hi> (for the <hi>Cavaliers</hi> to be kept still <hi>Ʋnder-Hatches,</hi> unless they would <hi>Swear</hi> against their <hi>Judgments,</hi> and <hi>Consciences; Renounce</hi> the <hi>King,</hi> and the <hi>Church,</hi> and Enter into a <hi>Diabolical League</hi> with <hi>Rebells,!</hi> You cannot <hi>Deny, Trimmer,</hi> but that this was very <hi>Hard Measure;</hi> And so much the <hi>Worse</hi> too, for that all this <hi>Violence Tyranny,</hi> and <hi>Injustice</hi> was <hi>Ex<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rcis'd</hi> by the <hi>Pretended Champions,</hi> for the <hi>Honour</hi> of the <hi>King,</hi> he <hi>advance<g ref="char:EOLhyphen"/>ment</hi> of the <hi>Church,</hi> the <hi>Preservation</hi> of the <hi>Protestant Religion,</hi> and the <hi>Liber<g ref="char:EOLhyphen"/>ties</hi> of the <hi>People.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>TRIMMER.</speaker>
+                     <p>You would fain bring This now, from a <hi>Point</hi> of <hi>State,</hi> to a <hi>Question</hi> of <hi>Conscience.</hi> I have nothing to say, either to the <hi>Equity</hi> or <hi>Honesty,</hi> or the <hi>Humanity</hi> of the <hi>Proceeding:</hi> But a<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>cording to the <hi>Ordinary Me sures</hi> of <hi>Practi<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>a le Prudence,</hi> they had no Other way to <hi>Maintain</hi> wh<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t they had <hi>Gotten,</hi> then <hi>Avo<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ding</hi> those <hi>Rocks</hi> upon which the other <hi>Party Split,</hi> and <hi>Mis<g ref="char:EOLhyphen"/>cary'd.</hi> As to the Bus'ness of <hi>Sequestring, Imprisoning, Plunde<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ing, Disar<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ing,</hi> This was a way indeed to <hi>Crush</hi> the <hi>Cavaliers,</hi> when they had 'em <hi>Down:</hi> But then 'twas not a thing to be Done, till they had first gotten the <hi>Power</hi> in<g ref="char:EOLhyphen"/>to their <hi>Hands,</hi> and if you look into the <hi>Bottom</hi> of the Matter, you will find i<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> was their <hi>Exclusions, Exceptions, Qualifications,</hi> and he <hi>Reg<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>l<gap reason="illegible" resp="#murp" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ing</hi> of their <hi>Elections,</hi> that did the <hi>Work.</hi> The <hi>Corrupting</hi> of a House of <hi>Commons</hi> is like the <hi>P<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ysoning</hi> of a <hi>Fountain,</hi> and the <hi>Contagion</hi> must Work there, before the <hi>Pest</hi> comes to be <hi>Epidemical.</hi> The <hi>Speaker</hi> is as <hi>Infallible</hi> in St. <hi>Stevens Chair,</hi> as his <hi>Holiness Himself,</hi> in St. <hi>Peters;</hi> and when <hi>Religion, Law,</hi> and <hi>Reason</hi> come to be decided by a <hi>Majority</hi> of <hi>Voices;</hi> The <hi>Vox Populy</hi> in the <hi>Lobby,</hi> passes for <hi>Vox Dei</hi> in the <hi>Chapp<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>l;</hi> And every <hi>Vote,</hi> for a <hi>Sanction,</hi> to the <hi>Iss<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e</hi> of the <hi>Debate:</hi> As I remember very well in the late <hi>Case</hi> for the Easing of <hi>Dissenters V<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>z. [That the prosecution of</hi> Protestant-Dissenters <hi>upon the</hi> Penal Laws, <hi>was at that time Grievous to the Subjects;</hi> a Weak'ning of the protestant Interest; Encouragement to <hi>Popery,</hi> and <hi>Dangerous</hi> to the <hi>Peace</hi> of the <hi>Ki<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>gdom.</hi>] That Single [Resolved upon Question] went further with the <hi>People,</hi> you see, then I know not how many <hi>Acts of Parliament,</hi> with as many <hi>[Roy le Veults]</hi> to the Contrary; And so for the <hi>Impeachment</hi> of <hi>Fitz-Harris;</hi> the <hi>Obstruct<g ref="char:EOLhyphen"/>ing</hi> of the late Kings <hi>Supplys:</hi> And, betwixt You and Me, <hi>Nob<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, the</hi> Protest<g ref="char:EOLhyphen"/>ing against his Credit, as well as against the <hi>Argmentation,</hi> or the <hi>Maintenance</hi> of his <hi>Revenue.</hi> In One Word; Every thing passes with the <hi>Multitude</hi> for <hi>Sacred,</hi> that comes from within <hi>Those Walls.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <pb n="14" facs="tcp:184633:9"/>
+                     <speaker>Obs.</speaker>
+                     <p>You talk at a Rate, as if the <hi>People</hi> of <hi>England</hi> took their <hi>Representa<g ref="char:EOLhyphen"/>tives</hi> in <hi>Parliament,</hi> for the <hi>Supreme Authority</hi> of This <hi>Nation.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Trim.</speaker>
+                     <p>Well Well! Let them take 'em for what they <hi>Will,</hi> You know very well, that in <hi>our late Troubles</hi> they were <hi>Any thing</hi> to the <hi>Multitude,</hi> that they <hi>Said</hi> they were; They <hi>Assum'd,</hi> and they <hi>Executed</hi> the <hi>Powers</hi> that they <hi>Pre<g ref="char:EOLhyphen"/>tended</hi> to. They <hi>Did</hi> in short, whatever they had a <hi>Mind</hi> to do; and <hi>[Re<g ref="char:EOLhyphen"/>solv'd upon the Question]</hi> was a <hi>Supersedeas</hi> to all Other <hi>Powers,</hi> and <hi>Obligations.</hi> I Defy the Earth, to Point me out <hi>Any One Instance</hi> (though the most Extra<g ref="char:EOLhyphen"/>vagant in Nature) that did not fall within the <hi>Compass</hi> of <hi>Their Priviledges.</hi> Pray take Notice, that I am not here upon the <hi>Honesty</hi> of their <hi>Practices;</hi> but upon the <hi>Policy</hi> of their <hi>Proceedings.</hi> Did they not <hi>Interpret, Declare, Qua<g ref="char:EOLhyphen"/>lify, Suspend,</hi> and <hi>Expound Laws</hi> as <hi>they pleas'd?</hi> Was not the Sense of the <hi>House</hi> the <hi>Test</hi> of our <hi>Religion,</hi> and <hi>Liberties?</hi> Did they not <hi>Seize,</hi> and set at <hi>Liberty, Impeach</hi> or <hi>Excuse; Arraign</hi> or <hi>Condemn,</hi> as they found the <hi>One,</hi> or the <hi>Other</hi> for their <hi>Interest,</hi> or <hi>Convenience?</hi> Did they not do more by an <hi>Or<g ref="char:EOLhyphen"/>dinance</hi> then ever any <hi>King of England</hi> took upon him to do, either by <hi>Prero<g ref="char:EOLhyphen"/>gative,</hi> or by <hi>Law?</hi> Who could call any thing his <hi>Own,</hi> if they but said the <hi>Cause</hi> had <hi>Need</hi> of it? There was but the Thickness of the <hi>House-of-Com<g ref="char:EOLhyphen"/>mons-door,</hi> betwixt a <hi>Traytor,</hi> and a <hi>Patriot,</hi> for the very <hi>Same Words,</hi> or <hi>Acti<g ref="char:EOLhyphen"/>ons;</hi> as if the <hi>Chapel,</hi> had <hi>Consecrated</hi> the <hi>Treason.</hi> Were not all the Courts of <hi>Justice Resolv'd</hi> into a <hi>Close Commitee?</hi> And was not the <hi>Casting Voice,</hi> in <hi>All Causes whatsoever,</hi> made the <hi>Ʋltimate Arbitrator</hi> of the <hi>Controversy.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Obs.</speaker>
+                     <p>But do you reckon it <hi>Fair Play,</hi> all this while, to carry-on a <hi>Cause</hi> by <hi>Conspiracy, Corruption, Oppression, Scandal,</hi> and <hi>Imposture.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Trim.</speaker>
+                     <p>
+                        <hi>Fair</hi> or <hi>Foul Play,</hi> is not the <hi>Question:</hi> But so long as they <hi>Shuffled</hi> and <hi>Cut,</hi> among <hi>Themselves,</hi> and <hi>Dealt,</hi> and <hi>Play'd</hi> into <hi>One Anothers Hands,</hi> they made sure of the <hi>Game.</hi> Now I'le give ye leave to say what ye will of the <hi>Cause'</hi> Provided you will but <hi>Grant</hi> that it wass <hi>Manag'd</hi> according to <hi>Art:</hi> For by <hi>Excluding</hi> all the <hi>Adversaries</hi> of their <hi>Interest,</hi> they had a <hi>Clear Field</hi> to Themselves, and became, both <hi>Parties,</hi> and <hi>Judges.</hi> The <hi>House</hi> was made a <hi>Sanctuary,</hi> to all Intents, and Purposes; and a <hi>Breach</hi> of <hi>Priviledge,</hi> in those days, was such another kind of Bus'ness, as the <hi>Ridiculing of the Po<g ref="char:EOLhyphen"/>pish Plot,</hi> has been made <hi>Since.</hi> The Five Members were Protected by <hi>Privi<g ref="char:EOLhyphen"/>ledge;</hi> Magna Charta broken and, Evacuated, by <hi>Priviledge.</hi> Men were <hi>plun<g ref="char:EOLhyphen"/>der'd Jayl'd,</hi> ond <hi>Hang'd-up</hi> by <hi>priviledge;</hi> The King's Authority taken from his Person, and Vested in the two <hi>Houses,</hi> by <hi>priviledge:</hi> Tell 'em of the <hi>Royal power,</hi> of an <hi>Imperial prince,</hi> They make him a Trustee presently, for the Good of the People; His Office Forfeitable; And that is <hi>Their part</hi> to take care in such a case, <hi>Ne quid Detrimenti Capiat Respublica:</hi> And the same Colour serv'd them for the Seizure of the <hi>Militia,</hi> and the <hi>publique Revenues,</hi> into their Own Hands. Now this could never have been, if All their <hi>Majorities</hi> had not been of the same Leaven, and all the Royalists utterly shut of their <hi>Councel.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <pb n="15" facs="tcp:184633:9"/>
+                     <speaker>Obs.</speaker>
+                     <p>Ay, but here are a great many things <hi>Supos'd,</hi> that are directly <hi>Con<g ref="char:EOLhyphen"/>trary</hi> to the <hi>Known Law.</hi> The <hi>Sovereignty</hi> of the <hi>Crown</hi> is brought down to the <hi>Bar</hi> of the <hi>Servants</hi> of the <hi>Common People;</hi> and the <hi>Multitude,</hi> in the Mean Time, <hi>Hoisted</hi> on to the <hi>Bench,</hi> to give <hi>Judgment</hi> upon the <hi>Issue.</hi> Every body knows that the <hi>Kings Prerogatives</hi> are <hi>Bounded,</hi> and <hi>Stated;</hi> though he's a <hi>Sawcy Subject,</hi> let me tell ye, that undertakes to <hi>Limit,</hi> and to <hi>Prescribe</hi> them; In such a manner as to say, Thus far a <hi>Prince</hi> may go, and no further,: For a pri<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ate Man is out of his <hi>Province,</hi> when he presumes to Intermedle with Points that lye only betwixt <hi>God</hi> and his <hi>Sovereign.</hi> Let him keep to his <hi>Du<g ref="char:EOLhyphen"/>ty</hi> of Considering what a <hi>Subject Ought</hi> to do, without Stretching his <hi>Enqui<g ref="char:EOLhyphen"/>rys</hi> into the uttermost Terms of what a <hi>King</hi> may take upon him to do.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Trim.</speaker>
+                     <p>Hark ye, <hi>Nobs,</hi> 'Tis an Idle Thing to <hi>Cite,</hi> or to <hi>Plead,</hi> either <hi>Law</hi> or <hi>Scripture,</hi> to people that have the Power of Interpreting Both in their own Hands. Nay let the Text be never so <hi>Explicit,</hi> there are Certain Impl<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>'d Conditions, of the <hi>Law</hi> of <hi>Nature,</hi> and self preservation, that they still made use of, as an <hi>Exception</hi> to the <hi>General Rule: Touch not mine Anointed,</hi> was ap<g ref="char:EOLhyphen"/>ply'd to the <hi>People.</hi> Let every <hi>Soul</hi> be subject to the <hi>Higher Powers;</hi> If Mr. <hi>Baxter</hi> had been the <hi>Paraphrast,</hi> would have been <hi>Expounded, Let every Body be Subject to the Longer Sword.</hi> And then a <hi>Nemine Contradicen<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e</hi> has one <hi>Mark</hi> (Unity that is) of an <hi>Indubitable Truth.</hi> Ask them <hi>[how Laws are to be Ʋnderstood, and Obedience Yielded]</hi> Their answer is <hi>[That there is in Laws, an Equitable, and Litteral</hi> Sence; and when there is certain appearance, <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r Grounded Suspition, <hi>That the Letter of the Law shall be</hi> Emprov'd against the <hi>Equity of it, (That is, the Publique Good,</hi> whether of the Body <hi>Real,</hi> or <hi>Repre<g ref="char:EOLhyphen"/>sentative</hi>) then the <hi>Commander</hi> going against it's <hi>Equi<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>y,</hi> gives Liberty to the <hi>Commanded</hi> to refuse Obedience to the <hi>Letter.</hi> Exact Collect. P. 150.] <hi>This</hi> was the <hi>Doctrine</hi> of <hi>April</hi> 1642. And it held through all the <hi>Charges</hi> in our Late Revolutions. [<hi>We have</hi> (we have says <hi>Cromwell) in our own Judgment such Clear, and Convincing Grounds to Justify our proceedings wi<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>h</hi> [The Cavaliers] <hi>which could scarcely be expected in Cases of Secret Treasons, and Conspiracies: a Bare correspondence, wherein, hath been always accounted capital:</hi> And if the Su<g ref="char:EOLhyphen"/>preme Magistrate were in These Cases Ty'd up to the Ordinary Rules, and had not a Liberty to proceed, upon Illustrations of Reason, against Those who are Continually Suspected, there would be Wanting in such a State the Means of Common Safety. A Declaration of his Highness by the Advice of his Councel. Oct. 31. 1655. p. 36.] And then he says again. [<hi>That caracter of Difference between them, and the Rest of the People,</hi> is <hi>Occa<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ion'd by Themselves, not by us.</hi> There is nothing they have more Industrously Labour'd in then This; To keep themselves <hi>Separated</hi> and <hi>Distinguished</hi> from the well affected of this Nation: To which End they have kept their Conversation <hi>a-part, (as if they would Avoid the very Beginnings of Ʋnion)</hi> They have Bred, and E<g ref="char:EOLhyphen"/>ducated their Children by the <hi>Sequester'd</hi> and <hi>Ejected Clergy</hi> Ib. p. 38. And
+<pb n="16" facs="tcp:184633:10"/> therefore we leave to all Mankind to Judge, whether we ought not to be <hi>Time<g ref="char:EOLhyphen"/>ly Jealous of that Separation;</hi> And to proceed against them, as They may be at the Charge of those Remedies which are required against the Dangers they have bred. Ib. p. 3<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.] And once again. [<hi>Admit that some of that pa ty were as Innocent as some would have it Believ'd they were,</hi> Enough hath been done by their <hi>Fellows</hi> in a <hi>Common Cause</hi> (which hardly any of them know how to <hi>Dis<g ref="char:EOLhyphen"/>own;</hi> which they <hi>Love</hi> and of which they <hi>Glory</hi>) to draw the <hi>Whole Party</hi> un<g ref="char:EOLhyphen"/>er a <hi>Just Suspicion,</hi> and the consequence thereof. All that are peaceably Mind<g ref="char:EOLhyphen"/>ed in the Nation are ready to say <hi>[These are the Men of whom we go in danger:]</hi> And certainly It is both <hi>Just,</hi> and <hi>Necessary,</hi> that All those of whom the Peo<g ref="char:EOLhyphen"/>ple have reason to be afraid, (not only as their <hi>Profess'd Enemies,</hi> but also <hi>Numerous</hi>) should pay for securing the State against <hi>That Danger, which</hi> they themselves were the Authors of. Ib. p. 37.] This was published in Justi<g ref="char:EOLhyphen"/>fication of an Extraordinary Tax; upon the <hi>Cavaliers;</hi> And I Cite These Passages as so many <hi>Instances</hi> of their <hi>political prudence:</hi> And what was it that Enabled the party to do so many great Things, but the keeping of their <hi>par<g ref="char:EOLhyphen"/>liaments,</hi> their Councels and all Offices and Places, that were <hi>Considerable,</hi> ei<g ref="char:EOLhyphen"/>ther for <hi>Trust' profit, or Reputation, Clear,</hi> not only of known, and open, but of doubtfull, and Suspected Enemies. To make and end on't, if they had not Barr'd the <hi>Royallists</hi> out of their Councels, and Parliaments, they could never have kept themselves <hi>One six month above Water.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Obs.</speaker>
+                     <p>Prethee Turn the Tables now, and bless the Providence of being un<g ref="char:EOLhyphen"/>der so <hi>Mercifull</hi> a <hi>Government,</hi> that renders only <hi>Good,</hi> for <hi>Evil.</hi> The Roya<g ref="char:EOLhyphen"/>lists, 'tis True, were Perpetually at work some way or Other, to Distract, and to confound the <hi>Rebells;</hi> But then they had the <hi>Scriptures,</hi> and the <hi>Law</hi> on their side; and all their Endeavours were warranted, by an <hi>Indispensable Duty,</hi> to <hi>GOD,</hi> their <hi>KING,</hi> and their <hi>COƲNTRY;</hi> while the oppressi<g ref="char:EOLhyphen"/>on, and Tyranny that was Excis'd over them by the Other Party, had all that could be <hi>Impious,</hi> in the very <hi>Foundation</hi> and <hi>Aquisition</hi> of their power; Beside the <hi>Arbitrary</hi> the Malicious, and the <hi>Bloudy Methods</hi> of <hi>execting it.</hi> Take the very <hi>Reason</hi> of the case now abstracted from the Qualifications of it; and there's the Same Argument for <hi>excluding</hi> the Faction at this day that there was formerly for <hi>excluding</hi> of Honest Men: I do not speak of it as a thing <hi>
+                           <hi>Needfull,</hi> as Matters now stand: For 'tis reasonable to presume that people will have the <hi>Brains,</hi> and the <hi>Good Manners,</hi> not to make choice of Men, of <hi>Known diaffections,</hi> either to the <hi>Person</hi> of h s Sacred <hi>Maje<g ref="char:EOLhyphen"/>sty,</hi> or to the <hi>Frame</hi> of the establish'd <hi>Government:</hi> Because 't<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s past that time of day, for me to set up themselves <hi>Barefac'd,</hi> in a <hi>Spitfull Opposition</hi> against the <hi>Constitution.</hi> Nay, or to put it so much as to the <hi>Hazard,</hi> even of a <hi>Doubtfull</hi> Case, and ru<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ning the risque of a <hi>Mistake,</hi> where they may be <hi>Morally sure</hi> They will have the <hi>Conscience</hi> also, as well as the wisdom, to <hi>Reflect</hi> upon't, that <hi>Charles</hi> the F<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rst and Three <hi>Kingdoms,</hi> were <hi>Ruin'd</hi> by the Vulgar <hi>Error,</hi> and <hi>Immaginations;</hi> That the Government wanted <hi>Reforming,</hi> 'till their <hi>Fears</hi> were brought upon them by their <hi>Follys;</hi> and that the very <hi>Men</hi> that they <hi>Ador'd,</hi> as the most Eminent <hi>Protestants,</hi> and <hi>Pa<gap reason="illegible" resp="#murp" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>i<gap reason="illegible" resp="#murp" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>s,</hi> Carry'd their <hi>Religiion</hi> only betwixt their <hi>Teth,</hi> while in their <hi>Manners,</hi> and practices, they were no other then <hi>Down right Atheists.</hi> They <hi>will</hi> consider, that <hi>Tumultuary</hi> Elections. brought forth <hi>Tumultuary</hi> Debates and <hi>Resolutions;</hi> and that the <hi>Peace;</hi> and pr<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>sperity of the <hi>publ<gap reason="illegible" resp="#murp" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>que, will</hi> never be <hi>promoted</hi> by the <hi>Enemies</hi> of our <hi>Prince</hi> &amp; our <hi>Religion.</hi>
+                        </hi>
+                     </p>
+                  </sp>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>DƲBLIN, <hi>Reprinted for</hi> William Weston, Book-Seller <hi>in</hi> Christ-Church Lane.</p>
+                  <pb facs="tcp:184633:10"/>
+               </div>
+            </back>
+         </text>
+      </group>
+   </text>
+</TEI>
